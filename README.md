@@ -1,0 +1,2 @@
+# avf
+Simple hashchecking antivirus
